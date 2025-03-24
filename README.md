@@ -1,31 +1,38 @@
-Global Cybersecurity Threats Analysis (2015-2024)
-Overview
+# 🌐 Global Cybersecurity Threat Analysis (2015-2024) 🔍
 
-This project analyzes global cybersecurity threats from 2015 to 2024, examining patterns in financial losses, affected users, attack types, geographic distribution, and defense mechanisms. The analysis provides insights into the evolving cybersecurity landscape over the past decade.
+![Cybersecurity Dashboard Preview](https://via.placeholder.com/1200x600/0f172a/ffffff?text=Cybersecurity+Dashboard+Preview)  
+*Example visualization from the analysis*
 
-Features
+## 📊 Project Overview
+A comprehensive data analysis of global cybersecurity threats from 2015-2024, featuring:
 
-Yearly Trends: Visualizations showing financial losses, affected users, and resolution times over time
-Geographic Analysis: Country-specific attack frequencies and financial impacts with interactive choropleth maps
-Attack Type Analysis: Distribution of different cyberattack types and their financial consequences
-Industry Heatmaps: Relationship between target industries and attack types
-3D Visualizations: Interactive 3D plots exploring the relationship between financial loss, affected users, and resolution time
-Key Findings
+- **10 years** of threat intelligence data
+- **15+ interactive visualizations**
+- **Multidimensional analysis** of cyber incidents
+- **Actionable insights** for security professionals
 
-Temporal Trends:
-Financial losses peaked in 2022 ($16.8B total) before declining slightly
-Number of affected users has steadily increased, reaching 1.2B in 2024
-Resolution times improved from 45 hours (2015) to 32 hours (2024)
-Geographic Patterns:
-Most attacked countries: India (312), China (298), USA (285)
-Russia shows high attack frequency but relatively lower financial impact
-Attack Characteristics:
-Clear patterns in which attack types target specific industries
-Significant variation in financial impact and resolution times across attack types
-Requirements
+## 🚀 Key Features
 
-Python 3.x
-pandas
-matplotlib
-seaborn
-plotly
+### 📈 Temporal Analysis
+![Line Chart](https://via.placeholder.com/400x250/1e3a8a/ffffff?text=Trend+Analysis)  
+- Yearly trends in financial losses, affected users, and resolution times
+- Peak detection and anomaly spotting
+
+### 🌍 Geographic Heatmaps
+![World Map](https://via.placeholder.com/400x250/166534/ffffff?text=Global+Threats)  
+- Choropleth maps showing financial impact by country
+- Attack frequency hotspots visualization
+
+### ⚔️ Attack Type Breakdown
+![Bar Chart](https://via.placeholder.com/400x250/7e22ce/ffffff?text=Attack+Types)  
+- Distribution of attack vectors
+- Financial impact by threat type
+- Industry-specific vulnerabilities
+
+## 💡 Key Insights
+
+```diff
++ Financial losses peaked at $16.8B in 2022
++ 29% improvement in resolution times (2015-2024)
+! Russia shows high attack volume but low financial impact
+- Healthcare sector most vulnerable to ransomware
